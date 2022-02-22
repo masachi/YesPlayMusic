@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "music-api.masachi.vercel.app/:match*"
+    }
+  ]
+}
